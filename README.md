@@ -1,0 +1,3 @@
+# ai-code-executor
+
+This Python tool is a stateful REPL interpreter that executes code snippets securely, supporting libraries for data processing, math, physics, biology, chemistry, finance, and more, while maintaining session state across runs for iterative development.
